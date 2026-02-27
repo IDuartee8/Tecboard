@@ -78,7 +78,7 @@ section img{
     height: 446px;
     margin: 0 auto;
 }
-
+    /*Estilos para Tablet/Mobile*/
 @media(max-width: 768px){
 
     header img{
